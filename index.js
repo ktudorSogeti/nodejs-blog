@@ -1,7 +1,7 @@
 
 /**
  *  Load external modules / see readme for bundle instructions
- *  Added Comment -Jeff
+ *  Added Comment -Jeff Holmquist
  */
  
 var path = require('path')

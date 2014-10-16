@@ -3,6 +3,7 @@ TO-DO
 
 0.1.8
 
+
  * Added Bootrap support
  * Cleaned up the code 
 
